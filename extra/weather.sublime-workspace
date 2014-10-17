@@ -1,0 +1,994 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"convertedProject"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"seq",
+				"sequenceFrom"
+			],
+			[
+				"se",
+				"sequentialLayout"
+			],
+			[
+				"bind",
+				"bindEvent"
+			],
+			[
+				"icon",
+				"iconModifier"
+			],
+			[
+				"proej",
+				"projectsList"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"loa",
+				"loaded"
+			],
+			[
+				"get",
+				"getProjectList"
+			],
+			[
+				"proje",
+				"projectsList"
+			],
+			[
+				"pass",
+				"password"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/nicolas/Documents/programmation/weatherproject/www/js/views/surfaces/ProjectSurfaceHeader.js",
+			"settings":
+			{
+				"buffer_size": 5227,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nicolas/Documents/programmation/weatherproject/www/js/views/surfaces/ProjectSurfaceForecast.js",
+			"settings":
+			{
+				"buffer_size": 2559,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nicolas/Documents/programmation/weatherproject/www/js/app/Projects.js",
+			"settings":
+			{
+				"buffer_size": 5875,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nicolas/Documents/programmation/weatherproject/less/components/project-surface-header.less",
+			"settings":
+			{
+				"buffer_size": 2911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/nicolas/Documents/programmation/weatherproject/styleguide/kss/index.html",
+			"settings":
+			{
+				"buffer_size": 5141,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/app/Config.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/utils/connect.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/common/color.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/hooks/after_prepare/002_copy_icons_splash.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/comment-in-selector.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-styleguide/node_modules/kss/node_modules/natural/spec/count_inflector_spec.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/plist/node_modules/xmlbuilder/node_modules/lodash-node/compat/internals/forOwnIteratorOptions.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/mobile-icon-resizer/config.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/config.xml",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/header.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/MenuView.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/LoginView.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/project-surface-forecast.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/project-surface-header.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/project-surface-details.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt/node_modules/glob/test/pause-resume.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/app/Projects.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/surfaces/ProjectSurfaceDetails.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/ProjectView.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/common/font.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/ProjectListView.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/plist/node_modules/xmlbuilder/node_modules/lodash-node/compat/internals/htmlEscapes.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/menu.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/common/var.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/core/Surface.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-contrib-less/node_modules/less/build/rhino-header.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-contrib-less/node_modules/less/build/browser-header.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/views/HeaderFooterLayout.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/DetailView.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-cordovacli/node_modules/cordova/node_modules/cordova-lib/src/plugman/util/default-engines.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/devops/config/deploy.rb",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/login.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/font-awesome.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/weather-icons.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/css/style.css",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/style.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/config/settings.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/AppView.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/app.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/index.html",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/common/common.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/views/Scrollview.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/projectView.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/ios-sim/ios-sim.xcodeproj/project.pbxproj",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-styleguide/test/styleguide_test.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/styleguide/kss/index.html",
+		"/Users/nicolas/Documents/programmation/weatherproject/platforms/ios/build/emulator/weatherproject.app/www/js/views/DetailView.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/platforms/ios/www/js/views/DetailView.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/surfaces/ProjectSurfaceForecast.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/surfaces/ProjectSurfaceHeader.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-cordovacli/node_modules/cordova/node_modules/cordova-lib/node_modules/npm/test/packages/npm-test-bundled-git/minimatch-expected.json",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/plist/Makefile",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/core/EventHandler.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-cordovacli/node_modules/cordova/node_modules/cordova-lib/src/plugman/platform_operation.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/plist/node_modules/xmlbuilder/node_modules/lodash-node/compat/objects/isElement.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/surfaces/ContainerSurface.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/views/Scroller.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/core/ViewSequence.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/utils/ajax.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/core/ElementAllocator.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/modifiers/StateModifier.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/views/SequentialLayout.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/core/View.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/bower.json",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/local/json_daily_weather_project.json",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/css/index.css",
+		"/Users/nicolas/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nicolas/Documents/programmation/weatherproject/hooks/after_prepare/003_copy_ios_fonts.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/hooks/after_prepare/001_replace_text.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/Gruntfile.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-styleguide/node_modules/stylus/node_modules/sax/test/stray-ending.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-styleguide/node_modules/stylus/lib/renderer.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/core/RenderNode.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-contrib-less/node_modules/less/test/browser/runner-errors-options.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/hooks/README.md",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/project-surface-planing.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/common/reset.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/views/ScrollContainer.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-styleguide/node_modules/less/test/less/variables-in-at-rules.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-styleguide/node_modules/less/test/css/variables-in-at-rules.css",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-contrib-less/node_modules/less/test/less/variables-in-at-rules.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-contrib-less/node_modules/less/test/css/variables-in-at-rules.css",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-styleguide/node_modules/kss/test/fixtures-styles/options-typos.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/plist/node_modules/xmlbuilder/node_modules/lodash-node/compat/objects/forOwn.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-cordovacli/node_modules/cordova/node_modules/cordova-lib/node_modules/npm/node_modules/npm-registry-client/node_modules/couch-login/couch-login.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/views/subviews/ProjectViewHeader.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/local/token.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/less/components/block-1.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/weather-icons/weather-icons/variables.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/weather-icons/weather-icons/icon-classes.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/weather-icons/weather-icons/weather-icons.less",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-styleguide/.sass-cache/904c1b857e6e0c57b6f67a0aa4bcc090ecf3a71c/_background-origin.scssc",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/local/jiraManager.json",
+		"/Users/nicolas/Documents/programmation/weatherproject/rest/jira.php",
+		"/Users/nicolas/Documents/programmation/weatherproject/package.json",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/core/OptionsManager.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-cordovacli/node_modules/cordova/VERSION",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-contrib-less/node_modules/less/node_modules/source-map/build/suffix-utils.jsm",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/localforage/dist/localforage.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/plist/node_modules/xmlbuilder/node_modules/lodash-node/compat/internals/isNative.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/views/GridLayout.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/lib/cookies.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/utils/device.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/argument_parser.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/grunt-cli/AUTHORS",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/transitions/TweenTransition.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/famous/transitions/Transitionable.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/app/Login.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/app/ProjectLightbox.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/mobile-icon-resizer/node_modules/optimist/example/line_count_options.js",
+		"/Users/nicolas/Documents/programmation/weatherproject/node_modules/ios-sim/LICENSE",
+		"/Users/nicolas/Documents/programmation/weatherproject/www/js/lib/promise/promise.js",
+		"/Users/nicolas/Documents/programmation/sebia/app/bootstrap-styleguide/package.json",
+		"/Users/nicolas/Documents/programmation/fft/design/frontend/default/base/layout/layout.phtml",
+		"/Users/nicolas/Documents/programmation/fft/vendor/playground/game/view/frontend/layout/layout.phtml",
+		"/Users/nicolas/Documents/programmation/fft/vendor/playground/user/view/frontend/layout/layout.phtml",
+		"/Users/nicolas/Documents/programmation/fft/vendor/playground/design/src/PlaygroundDesign/Templates/layout.php",
+		"/Users/nicolas/Documents/programmation/fft/design/frontend/default/base/layout.php",
+		"/Users/nicolas/Documents/programmation/fft/design/admin/default/playground/layout.php",
+		"/Users/nicolas/Documents/programmation/fft/vendor/playground/hybridauth/examples/social_hub/logout_all.php",
+		"/Users/nicolas/Documents/programmation/fft/config/autoload/local.php",
+		"/Users/nicolas/Documents/programmation/fft/config/autoload/social.config.php",
+		"/Users/nicolas/Documents/programmation/fft/design/frontend/default/base/fft/post-vote/index.phtml",
+		"/Users/nicolas/Documents/programmation/fft/design/frontend/default/base/application/index/index.phtml",
+		"/Users/nicolas/Documents/programmation/fft/design/admin/default/playground/playground-translate/translate-admin/index.phtml",
+		"/Users/nicolas/Documents/programmation/fft/design/admin/default/playground/playground-stats/statistics/index.phtml",
+		"/Users/nicolas/Documents/programmation/fft/design/admin/default/playground/playground-design/system/index.phtml",
+		"/Users/nicolas/Documents/programmation/fft/design/admin/default/playground/playground-design/dashboard/index.phtml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"last",
+			"for",
+			"header",
+			"hamburger",
+			"hambu",
+			"header",
+			"%",
+			"device",
+			"ContainerSurface",
+			"refresh",
+			"hamburger",
+			"hamburgerModifier",
+			"hamburgerSurface",
+			"50",
+			"setsize",
+			"size",
+			"scrollview",
+			"openPosition",
+			"transition",
+			"toggle",
+			"console",
+			"Project:refresh",
+			"fres",
+			"console.log",
+			"addProject",
+			"console",
+			"momen",
+			"titleSurface",
+			"addProject",
+			"add",
+			"console.log",
+			"getItem",
+			"local",
+			"ajax",
+			"header-item.fa.a-refresh.fontawesome-sm",
+			"brand-grey",
+			"behind",
+			"fontawesome",
+			"fontawesome-webfont",
+			"/js/lib/fontawesome/fon",
+			"272627",
+			"isOpen",
+			"isopen",
+			"click",
+			"type",
+			"pipe",
+			"MenuView",
+			"menu",
+			"menuToggle",
+			"MenuView",
+			"commit",
+			"context",
+			"add",
+			"container",
+			"context",
+			"sequencefrom",
+			"projectSurfaceHeader",
+			"commit",
+			"setup",
+			"container",
+			"allocator",
+			"contex",
+			"Context",
+			"context",
+			"ElementAllocator",
+			"deallocate",
+			"ajax",
+			"sequentialLayout",
+			"projectSurfaces",
+			"logout",
+			"addProject",
+			"add",
+			"connect",
+			"classes",
+			"manu",
+			"fillProjectList",
+			"refresh",
+			"background",
+			"uppercase",
+			"iconModifier",
+			"iconSurface",
+			"97",
+			"refresh",
+			"console",
+			"next",
+			"projectService",
+			"id",
+			"add",
+			"id",
+			"iconSurface",
+			"_eventInput",
+			"container",
+			"pipe",
+			".project",
+			"render",
+			"ourconfigfile",
+			"event",
+			"_currTarget",
+			"deploy",
+			"commit",
+			"projectSurfaceForecast",
+			"projectSurfaceForecastModifier",
+			"RenderNode",
+			"console",
+			"_scroller",
+			"sequenceFrom",
+			"commit",
+			"sequenceFrom",
+			"scrollview",
+			"forecast",
+			"logme",
+			"class",
+			"block",
+			"block1Surface",
+			"projectViewHeader",
+			"block1Surface",
+			"DetailView",
+			"StateModifier",
+			"ContainerSurface",
+			"ProjectView",
+			"ProjectViewHeader",
+			"ProjectView",
+			"addProject",
+			"project",
+			"body",
+			"kss-mod-example",
+			"ajax",
+			"context"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"[\n    {\n        \"id\": \"12760\",\n        \"name\": \"ACCAPI\",\n        \"description\": \"\",\n        \"issueSecurityScheme\": null,\n        \"key\": \"ACCAPI\",\n        \"lead\": \"mchamroux\",\n        \"notificationScheme\": null,\n        \"permissionScheme\": null,\n        \"projectUrl\": \"\",\n        \"url\": \"http://support.adfab.fr/support/browse/ACCAPI\"\n    },\n    {\n        \"id\": \"13262\",\n        \"name\": \"ALCATEL\",\n        \"description\": null,\n        \"issueSecurityScheme\": null,\n        \"key\": \"ALCATEL\",\n        \"lead\": \"jfranceschini\",\n        \"notificationScheme\": null,\n        \"permissionScheme\": null,\n        \"projectUrl\": null,\n        \"url\": \"http://support.adfab.fr/support/browse/ALCATEL\"\n    },\n    {\n        \"id\": \"13160\",\n        \"name\": \"ANDREROUSSEL\",\n        \"description\": null,\n        \"issueSecurityScheme\": null,\n        \"key\": \"AROUSSEL\",\n        \"lead\": \"nruby\",\n        \"notificationScheme\": null,\n        \"permissionScheme\": null,\n        \"projectUrl\": null,\n        \"url\": \"http://support.adfab.fr/support/browse/AROUSSEL\"\n    }\n]",
+			"",
+			"src"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/Users/nicolas/Documents/programmation/weatherproject"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/nicolas/Documents/programmation/weatherproject/www/js/views/surfaces/ProjectSurfaceHeader.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2459,
+								2459
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 609.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/nicolas/Documents/programmation/weatherproject/www/js/views/surfaces/ProjectSurfaceForecast.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2559,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1009,
+								1009
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 320.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nicolas/Documents/programmation/weatherproject/www/js/app/Projects.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5739,
+								5739
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 4.0,
+						"translation.y": 3064.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nicolas/Documents/programmation/weatherproject/less/components/project-surface-header.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2570,
+								2570
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1314.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nicolas/Documents/programmation/weatherproject/styleguide/kss/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5141,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2839,
+								2839
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 804.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "",
+	"replace":
+	{
+		"height": 1318.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"config",
+				"node_modules/mobile-icon-resizer/config.js"
+			],
+			[
+				"colo",
+				"less/common/color.less"
+			],
+			[
+				"proj",
+				"www/js/app/Projects.js"
+			],
+			[
+				"head",
+				"less/components/header.less"
+			],
+			[
+				"menu.less",
+				"less/components/menu.less"
+			],
+			[
+				"var",
+				"less/common/var.less"
+			],
+			[
+				"surfacehea",
+				"www/js/views/surfaces/ProjectSurfaceHeader.js"
+			],
+			[
+				"detail",
+				"www/js/views/surfaces/ProjectSurfaceDetails.js"
+			],
+			[
+				"login",
+				"www/js/views/LoginView.js"
+			],
+			[
+				"style",
+				"www/css/style.css"
+			],
+			[
+				"font",
+				"less/common/font.less"
+			],
+			[
+				"app",
+				"www/js/app.js"
+			],
+			[
+				"inde",
+				"www/index.html"
+			],
+			[
+				"menu.les",
+				"less/components/menu.less"
+			],
+			[
+				"scrollview",
+				"www/js/lib/famous/views/Scrollview.js"
+			],
+			[
+				"connec",
+				"www/js/utils/connect.js"
+			],
+			[
+				"projectvi",
+				"www/js/views/ProjectView.js"
+			],
+			[
+				"projec",
+				"less/components/projectView.less"
+			],
+			[
+				"confi",
+				"www/js/app/Config.js"
+			],
+			[
+				"style.css",
+				"www/css/style.css"
+			],
+			[
+				"menuv",
+				"www/js/views/MenuView.js"
+			],
+			[
+				"color",
+				"less/common/color.less"
+			],
+			[
+				"menu",
+				"less/components/menu.less"
+			],
+			[
+				"eventhandler",
+				"www/js/lib/famous/core/EventHandler.js"
+			],
+			[
+				"conn",
+				"www/js/utils/connect.js"
+			],
+			[
+				"project",
+				"www/js/app/Projects.js"
+			],
+			[
+				"connect",
+				"www/js/utils/connect.js"
+			],
+			[
+				"surface",
+				"www/js/lib/famous/core/Surface.js"
+			],
+			[
+				"surfa",
+				"www/js/lib/famous/core/Surface.js"
+			],
+			[
+				"containersur",
+				"www/js/lib/famous/surfaces/ContainerSurface.js"
+			],
+			[
+				"viewsequence",
+				"www/js/lib/famous/core/ViewSequence.js"
+			],
+			[
+				"scroller",
+				"www/js/lib/famous/views/Scroller.js"
+			],
+			[
+				"state",
+				"www/js/lib/famous/modifiers/StateModifier.js"
+			],
+			[
+				"elementallocator",
+				"www/js/lib/famous/core/ElementAllocator.js"
+			],
+			[
+				"contain",
+				"www/js/lib/famous/surfaces/ContainerSurface.js"
+			],
+			[
+				"view",
+				"www/js/lib/famous/core/View.js"
+			],
+			[
+				"views",
+				"www/js/lib/famous/core/ViewSequence.js"
+			],
+			[
+				"sequentiallayout",
+				"www/js/lib/famous/views/SequentialLayout.js"
+			],
+			[
+				"settin",
+				"config/settings.js"
+			],
+			[
+				"index",
+				"www/index.html"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"setting",
+				"config/settings.js"
+			],
+			[
+				"projectsurfaceforecast",
+				"www/js/views/surfaces/ProjectSurfaceForecast.js"
+			],
+			[
+				"var.less",
+				"less/common/var.less"
+			],
+			[
+				"fotn",
+				"less/common/font.less"
+			],
+			[
+				"container",
+				"www/js/lib/famous/surfaces/ContainerSurface.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"sur",
+				"www/js/lib/famous/core/Surface.js"
+			],
+			[
+				"containersurface",
+				"www/js/lib/famous/surfaces/ContainerSurface.js"
+			],
+			[
+				"optionsmanager",
+				"www/js/lib/famous/core/OptionsManager.js"
+			],
+			[
+				"gridlayout",
+				"www/js/lib/famous/views/GridLayout.js"
+			],
+			[
+				"tweentransition",
+				"www/js/lib/famous/transitions/TweenTransition.js"
+			],
+			[
+				"transitionable",
+				"www/js/lib/famous/transitions/Transitionable.js"
+			],
+			[
+				"statemodifier",
+				"www/js/lib/famous/modifiers/StateModifier.js"
+			],
+			[
+				"login.less",
+				"less/components/login.less"
+			],
+			[
+				"share.js",
+				"design/frontend/default/base/assets/boostrap-styleguide/js/components/share.js"
+			],
+			[
+				"post-vote/index.phtml",
+				"design/frontend/default/base/fft/post-vote/index.phtml"
+			],
+			[
+				"play",
+				"design/frontend/default/base/fft/post-vote/play.phtml"
+			],
+			[
+				"font.less",
+				"design/frontend/default/base/assets/boostrap-styleguide/less/common/font.less"
+			],
+			[
+				"share",
+				"design/frontend/default/base/fft/post-vote/share.phtml"
+			],
+			[
+				"page-o",
+				"design/frontend/default/base/assets/boostrap-styleguide/less/components/post-vote/page-overview.less"
+			],
+			[
+				"play.phtml",
+				"design/frontend/default/base/fft/post-vote/play.phtml"
+			],
+			[
+				"play.",
+				"design/frontend/default/base/fft/post-vote/play.phtml"
+			],
+			[
+				"app.js",
+				"design/frontend/default/base/assets/boostrap-styleguide/js/components/app.js"
+			],
+			[
+				"post.ph",
+				"design/frontend/default/base/fft/post-vote/post.phtml"
+			],
+			[
+				"post",
+				"design/frontend/default/base/fft/post-vote/post.phtml"
+			],
+			[
+				"bounce",
+				"design/frontend/default/base/fft/post-vote/bounce.phtml"
+			],
+			[
+				"page-",
+				"design/frontend/default/base/assets/boostrap-styleguide/less/components/post-vote/page-image.less"
+			],
+			[
+				"page-messa",
+				"design/frontend/default/base/assets/boostrap-styleguide/less/components/post-vote/page-message.less"
+			],
+			[
+				"canva",
+				"design/frontend/default/base/assets/boostrap-styleguide/js/components/overview-canvas.js"
+			],
+			[
+				"",
+				"fqdsfqdsfdfsdf"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"ou",
+				"~/Documents/programmation/sublimeProjects/optionsv7.sublime-project"
+			],
+			[
+				"sebi",
+				"~/Documents/programmation/sublimeProjects/sebia.sublime-project"
+			],
+			[
+				"cou",
+				"~/Documents/programmation/sublimeProjects/courjs.sublime-project"
+			],
+			[
+				"apa",
+				"~/Documents/programmation/sublimeProjects/apache.sublime-project"
+			],
+			[
+				"ap",
+				"~/Documents/programmation/sublimeProjects/apache.sublime-project"
+			],
+			[
+				"",
+				"~/Documents/programmation/sublimeProjects/weather.sublime-workspace"
+			],
+			[
+				"sei",
+				"~/Documents/programmation/sublimeProjects/sebia.sublime-project"
+			],
+			[
+				"fft",
+				"~/Documents/programmation/sublimeProjects/fft.sublime-project"
+			],
+			[
+				"oei",
+				"~/Documents/programmation/sublimeProjects/oeildelinks.sublime-project"
+			],
+			[
+				"o",
+				"~/Documents/programmation/sublimeProjects/oeildelinks.sublime-project"
+			],
+			[
+				"seb",
+				"~/Documents/programmation/sublimeProjects/sebia.sublime-project"
+			],
+			[
+				"jo",
+				"~/Documents/programmation/sublimeProjects/jogabo.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
